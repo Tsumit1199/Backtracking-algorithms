@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <limits.h>
-
+//dude this code solves with brute force, not divide and conquer, you can search online
 // Naive solution to find maximum sum subarray using
 // divide and conquer
 int maximum_sum(int A[], int n)
